@@ -2,7 +2,7 @@
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdfqwerzxcc&show_icons=true&theme=radical)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfqwerzxcc)](https://solved.ac/wowls79)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wowls79)](https://solved.ac/wowls79)
 </div>
 
 
