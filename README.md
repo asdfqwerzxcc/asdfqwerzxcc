@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdfqwerzxcc&show_icons=true&theme=radical)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdfqwerzxcc&show_icons=true&theme=radical)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfqwerzxcc)](https://solved.ac/asdfqwerzxcc)
+</div>
+
 
 <!--
 **asdfqwerzxcc/asdfqwerzxcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
