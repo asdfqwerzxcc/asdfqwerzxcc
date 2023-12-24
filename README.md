@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <div align="center">
-  
+  ###Git Stat
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdfqwerzxcc&show_icons=true&theme=radical)
+  ###Problem Solving
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wowls79)](https://solved.ac/wowls79)
 </div>
 
