@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <div align="center">
+  <h3>introduction</h3>
+  Backend Developer!
+  I'm growing everyday!
   
-  <h3>Git Stat</h3>
+  <h3>👩‍💻Git Stat</h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdfqwerzxcc&show_icons=true&theme=radical)
  
