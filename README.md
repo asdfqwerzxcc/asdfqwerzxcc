@@ -4,8 +4,7 @@
   Backend Developer!<br/>  
   I'm growing everyday!
 
-  <div align=center><h3>📚 Tech Stacks</h3></div>
-  <div align=center> 
+  <h3>📚 Tech Stacks</h3>
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <br>  
@@ -15,7 +14,6 @@
     <br> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <br>
-    
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
@@ -25,7 +23,6 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <br>
-  </div>
   <h3>👩‍💻Git Stat</h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdfqwerzxcc&show_icons=true&theme=radical)
