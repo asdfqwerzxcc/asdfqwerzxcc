@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,55:1F6FEB,100:2EA043&text=JaeJin%20Lee&fontColor=FFFFFF&fontSize=56&fontAlignY=46&desc=Backend%20Developer%20%7C%20TypeScript%20%2B%20Go%20%2B%20Python&descAlignY=68&animation=fadeIn" alt="JaeJin Lee profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,55:1F6FEB,100:2EA043&text=JaeJin%20Lee&fontColor=FFFFFF&fontSize=56&fontAlignY=46&desc=Software%20Builder%20%7C%20TypeScript%20%2B%20Go%20%2B%20Python&descAlignY=68&animation=fadeIn" alt="JaeJin Lee profile banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/asdfqwerzxcc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Designing+developer-friendly+tools;Learning+deeply%2C+shipping+steadily" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+software+systems;Designing+developer-friendly+tools;Learning+deeply%2C+shipping+steadily" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-238636?style=for-the-badge" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Tools-238636?style=for-the-badge" alt="Systems and Tools" />
   <img src="https://img.shields.io/badge/Now-TypeScript%20%7C%20Go%20%7C%20Python-1F6FEB?style=for-the-badge" alt="TypeScript Go Python" />
   <img src="https://img.shields.io/badge/Interest-LLM%20Tools%20%26%20Automation-8957E5?style=for-the-badge" alt="LLM Tools and Automation" />
 </p>
 
 ## About
 
-I am a backend-focused developer who likes turning rough product ideas into maintainable systems. These days I am working around browser tooling, LLM-assisted developer workflows, API design, and practical automation.
+I like turning rough product ideas into maintainable systems and useful tools. These days I am working around browser tooling, LLM-assisted developer workflows, API design, and practical automation.
 
 - Building with TypeScript, Go, Python, Node.js, NestJS, Flask, MySQL, and Git.
 - Practicing algorithmic problem solving and keeping notes in public repos.
